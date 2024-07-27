@@ -39,7 +39,7 @@ My name is RWIGARA Rodrigue and I'm a software engineer from Rwanda/Kigali. I'm 
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/alainmucyo/alainmucyo">
+<a href="https://github.com//rodriguecyber//rodriguecyber">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainmucyo&hide=html,blade,css,hack,scss,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com//rodriguecyber//rodriguecyber">
@@ -51,7 +51,7 @@ My name is RWIGARA Rodrigue and I'm a software engineer from Rwanda/Kigali. I'm 
 
 
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=alainmucyo&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com//rodriguecyber)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=alainmucyo&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/rodriguecyber)
 <hr>
 
 ## 😹 Wanna hear a joke?
