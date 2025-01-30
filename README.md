@@ -5,7 +5,7 @@ My name is RWIGARA Rodrigue, and I'm a software engineer from Kigali, Rwanda. I'
 
 - 🔭 I’m currently working in Kigali/Rwanda,
 - 🌱 I’m focusing on building scalable backend applications and sexy mobile apps,
-- 💬 Ask me about full-stack development and mobile
+- 💬 Ask me about full-stack development and mobile apps
 - 😄 Pronouns: he/him
 
 #### 📫 How to reach me:
