@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/alainmucyo/alainmucyo/develop/wave.gif" width="30px"/>
 [![Visits Badge](https://badges.pufler.dev/visits/rodriguecyber/rodriguecyber)](https://badges.pufler.dev/visits/rodriguecyber/rodriguecyber)
 
-My name is RWIGARA Rodrigue, and I'm a software engineer from Kigali, Rwanda. I'm a creative problem-solving enthusiast and a product guy, with a constantly growing love for kick-ass products. Besides my love for coding, I enjoy Football and support FC Barcelona 😎.
+My name is RWIGARA Rodrigue, and I'm a Software - DevOps engineer from Kigali, Rwanda. I'm a creative problem-solving enthusiast and a product guy, with a constantly growing love for kick-ass products. Besides my love for coding, I enjoy Football and support FC Barcelona 😎.
 
 - 🔭 I’m currently working in Kigali/Rwanda,
 - 🌱 I’m focusing on building scalable backend applications and sexy mobile apps,
